@@ -285,6 +285,8 @@ const zh = {
     preview: '预览',
     help: '帮助',
     document: '项目文档',
+    author: '作者',
+    feedback: '反馈',
     clearEmail: '邮件清除',
     sendEmailAddress: '发件人邮箱',
     toEmail: '收件人邮箱',

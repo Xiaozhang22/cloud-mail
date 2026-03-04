@@ -285,6 +285,8 @@ const en = {
     preview: 'Preview',
     help: 'Help',
     document: 'Document',
+    author: 'Author',
+    feedback: 'Feedback',
     clearEmail: 'Email Cleanup',
     sendEmailAddress: 'From Email',
     toEmail: 'To Email',
